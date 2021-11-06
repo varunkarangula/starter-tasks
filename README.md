@@ -1,5 +1,8 @@
 <p align="center">
-    ![Screenshot from 2021-11-07 00-41-58](https://user-images.githubusercontent.com/73750950/140621408-4cbc7d7d-1d8b-4fae-8a3f-5b53384bfa08.png)
+    
+<a href="https://example.com/">
+    <img src="https://lh5.googleusercontent.com/klcdT64Esgb8BnSj1JAsxFs9tnce2vyoKvRIHUKcamMpMleFjIu2OQRJ90T6Q5m1IXDn89la_Stl5R09iZADOAZ5yeBWAzqbkwTp41LHapgaY90T7QXVbizN0vld7wxrcQnuVAPx" alt="Logo" width=200 height=200>
+  </a>
 
   <h3 align="center">ACM Student Chapter - Amritapuri<br>Task List - 2021</h3>
 
@@ -9,6 +12,12 @@
   </p>
 </p>
 
+## Some reminders...
+
+- *Google is going to be a very dear friend, not only for these tasks but throughout your career, so it's best to learn how to efficiently Google*
+- *These tasks are for you to explore the wide world of Computer Science and not just a "Get it over with..." task list. Explore what areas capture your interest*
+- *Don't try and cheat, for your own good, it just defeats the purpose*
+- *We are always here to help you, just pop a question in our Discord channel. You might not get a direct answer, but you will absolutely be pointed in the right direction*
 
 ## The Tasks
 
@@ -34,7 +43,10 @@
 
 -  Click this [link](https://www.wikihow.com/Create-an-Account-on-GitHub) and follow the steps to create a Github Account
 
--  'Fork' this repo and update your work for each of the following tasks.
+-  'Fork' this repo into a private repo of your own and update your work for each of the following tasks.
+-  Use one subdeirectory per task and include a README outlining your work.
+
+*Look into using Git purely from your terminal, it's quite eye opening for most beginners to open source*
 
 ## Task 1
 ### Install Linux
@@ -45,7 +57,7 @@ Feel free to install any of the linux distributions(Ubuntu, Garuda, Debian, Fedo
 
 > Follow the steps shown in this [link](https://phoenixnap.com/kb/install-ubuntu-20-04) to dual boot your device with both windows and Ubuntu (Note: This is only for users not using macbooks / iMac).
 
-- For those who do not wish to dual boot their system you can look into getting a Virtual Machine to simulate any Linux distro.
+- *For those who do not wish to dual boot their system you can look into getting a Virtual Machine to simulate any Linux distro.*
 
 ## Task 2
 ### Bandit OTW - A Terminal Based Task
@@ -53,15 +65,31 @@ Feel free to install any of the linux distributions(Ubuntu, Garuda, Debian, Fedo
 -   Complete the first 10 levels of the Bandit OverTheWire Challenge: [Bandit](https://overthewire.org/wargames/bandit/) 
 
 -   This helps to improve your navigation of the Linux terminal... Try retaining what you learn in this challenge by playing around with the linux terminal in your own time .
+-   *This might seem hard at points, but it is in essence simple, just really obscure. So perseverance is key !! (as well as Googling XD)*
 
 
 ## Task 3
 ### Set up a Code Editor (VSCode Preferred)
 
+**What is a Code Editor ?**
+
+- A code editor is nothing but a text editor that is specialized for writing software. It may be a stand-alone program or part of an integrated development environment (IDE). They make writing and reading the source code easier by differentiating the elements, so the programmers can view their code.
+- It is an integral part of any programmer's toolbox.
+- Most prefer to use VSCode for it's support of a wide range of languages, as well as it's extensions and integrations
+- This link should get you started : [Download VSCode](https://code.visualstudio.com/download)
+
 
 ## Task 4
-### Project Euler - First 5 Tasks
+### Project Euler - First 5 Problems
 
+- This is a good place to try out your code editor / IDE as well as your coding skills...
+- [Problem 1](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem)
+- [Problem 2](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem)
+- [Problem 3](https://www.hackerrank.com/contests/projecteuler/challenges/euler003/problem)
+- [Problem 4](https://www.hackerrank.com/contests/projecteuler/challenges/euler004/problem)
+- [Problem 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler005/problem)
+
+*Feel free to do more of these problems / explore more interesting problems in the never ending problem archives*
 
 ## Task 5
 ### Create a Tribute Page
@@ -104,6 +132,8 @@ Have fun doing this and feel free to go all out 😄
 -   Use a Python script to record the number of searches for the term 'machine learning' from the year 2000 to present.
 
 -   You can use the Google Trends page for the term to get the values, and save whatever you get into a table / graph
+
+-   This should be sufficient to get started - [Web Scraping Basics](https://www.edureka.co/blog/web-scraping-with-python/)
 
 ## Task 7
 ###  Kaggle + Intro to ML course - An AI based Task
@@ -180,6 +210,13 @@ Have fun doing this and feel free to go all out 😄
 
 ## Task 10
 ### Explore LaTeX
+
+**What is LaTeX?**
+
+- LATEX is a great tool to create documents. It's based on the 'WYSIWYM' (what you see is what you mean) idea, meaning you only have to focus on the contents of your document and the computer will take care of the formatting. With LATEX, it's very easy to create professional-looking material. 
+- This article presents the basics of how to create a document - [LaTeX Tutorial]https://www.overleaf.com/learn/latex/Creating_a_document_in_LaTeX
+- Your task is to follow the tutorial make a short write up on yourself, your interests, dislikes, hobbies and life in general.
+- *This is going to be a very useful tool when you want to write / publish papers in the future*
 
 ## Task 11
 ### Having Fun with Logic Gates
