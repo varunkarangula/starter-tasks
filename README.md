@@ -1,9 +1,7 @@
 <p align="center">
-  <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="ACM Student Chapter - Amritapuri" width=72 height=72>
-  </a>
+    ![Screenshot from 2021-11-07 00-41-58](https://user-images.githubusercontent.com/73750950/140621408-4cbc7d7d-1d8b-4fae-8a3f-5b53384bfa08.png)
 
-  <h3 align="center">ACM Student Chapter - Amritapuri</h3>
+  <h3 align="center">ACM Student Chapter - Amritapuri<br>Task List - 2021</h3>
 
   <p align="center">
     A list of beginner level tasks to get started with crucial CS skills 
@@ -16,45 +14,53 @@
 
 - [Create a GitHub and Git account](#task-0)
 - [Install Linux](#task-1)
-- [Explore LaTeX](#task-2)
+- [Bandit OTW](#task-2)
 - [Set up a Code Editor](#task-3)
 - [Project Euler](#task-4)
 - [Create a Tribute Page](#task-5)
-- [Bandit OTW](#task-6)
-- [Data scraping using Python](#task-7)
-- [Kaggle + Intro to ML course](#task-8)
-- [Having Fun with Logic Gates](#task-9)
-- [Hackerrank Competition in C/C++](#task-10)
-- [Shh...](#task-11)
-- [ADVENT OF CODE](#task-12)
+- [Data scraping using Python](#task-6)
+- [Kaggle + Intro to ML course](#task-7)
+- [Shh...](#task-8)
+- [ADVENT OF CODE](#task-9)
+- [Explore LaTeX](#task-10)
+- [Having Fun with Logic Gates](#task-11)
+- [Hackerrank Competition in C/C++](#task-12)
+- [Task 13](#task-13)
 
 ## Task 0
 ### Create a GitHub and Git Account
 
-1.  Why make Github Account : GitHub is a website for developers and programmers to collaboratively work on code.Its like another social media app for coders who can help others with their code and contribute to it. Most of the companies check your github account to see your background knowledge in code and your contribution in various code projects.
+-  Why make a Github Account : GitHub is a website for developers and programmers to collaboratively work on code. Its like another social media app for coders who can help others with their code and contribute to large projects and codebases. Most companies check your github account to see your background knowledge in code and your contribution in various code projects.
 
-2.  Click this [link](https://www.wikihow.com/Create-an-Account-on-GitHub) and follow the steps to create a Github Account
+-  Click this [link](https://www.wikihow.com/Create-an-Account-on-GitHub) and follow the steps to create a Github Account
 
-3.  'Fork' this repo and update your work for each of the following tasks.
+-  'Fork' this repo and update your work for each of the following tasks.
 
 ## Task 1
 ### Install Linux
 
 Feel free to install any of the linux distributions(Ubuntu, Garuda, Debian, Fedora, Kali Linux, etc.) if you have any previous knowledge about them. Otherwise as a beginner the best linux distribution to explore is Ubuntu.
 
-1. Dual Boot (Multi-booting is the act of installing multiple operating systems on a single computer, and being able to choose which one to boot.)
+- Dual Boot (Multi-booting is the act of installing multiple operating systems on a single computer, and being able to choose which one to boot.)
 
 > Follow the steps shown in this [link](https://phoenixnap.com/kb/install-ubuntu-20-04) to dual boot your device with both windows and Ubuntu (Note: This is only for users not using macbooks / iMac).
 
-2. For those who do not wish to dual boot their system you can look into getting a Virtual Machine to simulate any Linux distro.
+- For those who do not wish to dual boot their system you can look into getting a Virtual Machine to simulate any Linux distro.
 
 ## Task 2
+### Bandit OTW - A Terminal Based Task
+
+-   Complete the first 10 levels of the Bandit OverTheWire Challenge: [Bandit](https://overthewire.org/wargames/bandit/) 
+
+-   This helps to improve your navigation of the Linux terminal... Try retaining what you learn in this challenge by playing around with the linux terminal in your own time .
 
 
 ## Task 3
+### Set up a Code Editor (VSCode Preferred)
 
 
 ## Task 4
+### Project Euler - First 5 Tasks
 
 
 ## Task 5
@@ -90,21 +96,16 @@ For the Hosting part, you can follow any of the following tutorials :\
 
 Have fun doing this and feel free to go all out 😄
 
+
+
 ## Task 6
-### Bandit OTW - A Terminal Based Task
-
--   Complete the first 10 levels of the Bandit OverTheWire Challenge: [Bandit](https://overthewire.org/wargames/bandit/) 
-
--   This helps to improve your navigation of the Linux terminal... Try retaining what you learn in this challenge by playing around with the linux terminal in your own time .
-
-## Task 7
 ### Data scraping using Python - A Web based Task
 
 -   Use a Python script to record the number of searches for the term 'machine learning' from the year 2000 to present.
 
 -   You can use the Google Trends page for the term to get the values, and save whatever you get into a table / graph
 
-## Task 8
+## Task 7
 ###  Kaggle + Intro to ML course - An AI based Task
 
 -   Create a Kaggle account
@@ -113,49 +114,11 @@ Have fun doing this and feel free to go all out 😄
 
 -   Pay special attention to the 7th and final part of this course which walks you through how a typical AI / ML Hackathon would take place
 
-## Task 9
-
-
-## Task 10
-### Having Fun with Logic Gates
-
-**What are Logic Gates?**
-
--   [Logic Gates](https://whatis.techtarget.com/definition/logic-gate-AND-OR-XOR-NOT-NAND-NOR-and-XNOR) are the building blocks to every digital circuit ever built
-
--   You're seeing this task from a computer? There are logic gates in each and every part of your computer.
-
--   Logic Gates form the basis for the digital era that we are living in
-
-**Why learn Logic Gates?**
-
--   Computers only understand two things : 0's and 1's
-
--   Well there isn't much we can do with a few zeros and a few ones right?
-
--   And you'd be right. What can anyone do with nothing but 1000101?
-
--   So, this is where logic gates come into play
-
--   Logic Gates are decision makers. They take a bunch of 0's and 1's and perform operations on them
-
--   Everything from a simple calculator to a satellite rely heavily on these logic gates to perform tasks
-
-Simulate and design every one of the standard logic gates on an online Simulator like [TinkerCAD](https://www.tinkercad.com/)
-
-However, if you're a very cultured person like the good folks at ACM, design all of the logic gates in .... *drumroll please* [MINECRAFT](https://educommunity.minecraft.net/hc/en-us/articles/360047116432-Try-Minecraft-Education-Edition-for-free)
-
-We've provided a link to the trial of Minecraft Education Edition if you feel like trying it out. Use your Amrita mail ID to sign up for the trial.
-
-**How do you get started with designing Logic Gates?**
-
-Let your creativity flow through for this task. Learn the standard logic gates and simulate them! How you get it done doesn't matter. The knowledge you gain through this does!
-
-## Task 11
+## Task 8
 
 [Secret Agent Password](https://edabit.com/challenge/WboAruyx4HQ3Q553q)
 
-## Task 12
+## Task 9
 ### Advent of Code
 
 **What is Advent of Code?**
@@ -214,4 +177,49 @@ Let your creativity flow through for this task. Learn the standard logic gates a
 
 *Give it your best shot and solve as many puzzles as you can from each and every year 😉*
 
-Enjoy :metal:
+
+## Task 10
+### Explore LaTeX
+
+## Task 11
+### Having Fun with Logic Gates
+
+**What are Logic Gates?**
+
+-   [Logic Gates](https://whatis.techtarget.com/definition/logic-gate-AND-OR-XOR-NOT-NAND-NOR-and-XNOR) are the building blocks to every digital circuit ever built
+
+-   You're seeing this task from a computer? There are logic gates in each and every part of your computer.
+
+-   Logic Gates form the basis for the digital era that we are living in
+
+**Why learn Logic Gates?**
+
+-   Computers only understand two things : 0's and 1's
+
+-   Well there isn't much we can do with a few zeros and a few ones right?
+
+-   And you'd be right. What can anyone do with nothing but 1000101?
+
+-   So, this is where logic gates come into play
+
+-   Logic Gates are decision makers. They take a bunch of 0's and 1's and perform operations on them
+
+-   Everything from a simple calculator to a satellite rely heavily on these logic gates to perform tasks
+
+Simulate and design every one of the standard logic gates on an online Simulator like [TinkerCAD](https://www.tinkercad.com/)
+
+However, if you're a very cultured person like the good folks at ACM, design all of the logic gates in .... *drumroll please* [MINECRAFT](https://educommunity.minecraft.net/hc/en-us/articles/360047116432-Try-Minecraft-Education-Edition-for-free)
+
+We've provided a link to the trial of Minecraft Education Edition if you feel like trying it out. Use your Amrita mail ID to sign up for the trial.
+
+**How do you get started with designing Logic Gates?**
+
+Let your creativity flow through for this task. Learn the standard logic gates and simulate them! How you get it done doesn't matter. The knowledge you gain through this does!
+
+## Task 12
+### Hackerrank Competition in C/C++
+> Coming Soon !!
+
+
+## Task 13
+Enjoy !! :metal:
