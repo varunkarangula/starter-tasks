@@ -45,6 +45,7 @@
 
 -  'Fork' this repo into a private repo of your own and update your work for each of the following tasks.
 -  Use one subdeirectory per task and include a README outlining your work.
+-  Note : Don't make any pull requests to the master yet !
 
 *Look into using Git purely from your terminal, it's quite eye opening for most beginners to open source*
 
