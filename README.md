@@ -12,7 +12,23 @@
 - *Google is going to be a very dear friend, not only for these tasks but throughout your career, so it's best to learn how to efficiently Google*
 - *These tasks are for you to explore the wide world of Computer Science and not just a "Get it over with..." task list. Explore what areas capture your interest*
 - *Don't try and cheat, for your own good, it just defeats the purpose*
-- *We are always here to help you, just pop a question in our Discord channel. You might not get a direct answer, but you will absolutely be pointed in the right direction*
+- *We are always here to help you, just contact us. You might not get a direct answer, but you will absolutely be pointed in the right direction*
+
+
+## Contacts
+-     Dhruv R Krishnan                            Hari Sankar
+      AI Lead                                     AI Mentor
+      9880611945                                  8714509489 
+-     Maanav Thalapilly                           Sudhin S
+      CP Lead                                     CP Mentor | AI Guide
+      9746301081                                  9961557857
+-     Aadithyan Raju
+      Cyber Lead
+      9562341272
+-     Abhishek A B                                Arjun C
+      Web Lead                                    Web Mentor
+      6282599335                                  8848798837
+
 
 ## The Tasks
 
@@ -25,16 +41,23 @@
 
 ## Task 0
 ### Create a GitHub and LinkedIn Account
+Why make a GitHub and LinkedIn Account?
 
--  Why make a GitHub Account : GitHub is a website for developers and programmers to work on code collaboratively. It's like another social media app for coders who can help others with their code and contribute to large projects and codebases. Most companies check your GitHub account to see your background knowledge in code and your contribution to various code projects.
-
--  Click this [link](https://www.wikihow.com/Create-an-Account-on-GitHub) and follow the steps to create a Github Account
-
--  'Fork' this repo into your own private repo and update your work for each of the following tasks.
--  Use one subdirectory per task and include a README outlining your work.
--  Note : Don't make any pull requests to the master yet !
+**GitHub:**
+- Version control for code.
+- Portfolio to display coding skills.
+- Collaboration on projects.
+- Open-source contributions.
 
 *Look into using Git purely from your terminal, it's pretty eye-opening for most beginners to open source*
+
+**LinkedIn:**
+- Professional networking.
+- Online resume for employers.
+- Job search and opportunities.
+- Industry insights and news.
+- Skill endorsements and recommendations.
+
 
 ## Task 1
 ### Set up a Code Editor (VSCode Preferred)
@@ -84,8 +107,7 @@ Let your creativity flow for this task. Learn the standard logic gates and simul
 
 ## Task 3
 ### Code Area
-
-- This is a good place to try out your code editor / IDE as well as your coding skills...
+This is a good place to try out your code editor / IDE as well as your coding skills...
 - [Problem 1](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements)
 - [Problem 2](https://www.hackerrank.com/challenges/simple-array-sum)
 - [Problem 3](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem)
@@ -97,10 +119,10 @@ Let your creativity flow for this task. Learn the standard logic gates and simul
 
 ## Task 4
 Solve the tasks for the SIG you chose !! :metal:
-- [AI](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/tree/main/AI)
-- [CP](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/tree/main/CP)
-- [Cyber Security](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/tree/main/Cyber%20Security)
-- [Web Development](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/tree/main/Web%20Development)
+- [SIG AI](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/tree/main/SIG%20AI)
+- [SIG CP](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/tree/main/SIG%20CP)
+- [SIG Cyber](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/tree/main/SIG%20Cyber)
+- [SIG Web](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/tree/main/SIG%20Web)
 
 ## Creating Your Submission Repo
 <div><h3>1. Click on Repositories…</h3>
@@ -135,13 +157,5 @@ Solve the tasks for the SIG you chose !! :metal:
 ## Submission Link:- 
 https://aseam.acm.org/join/submit
 
-## Contacts
-- Dhruv R Krishnan
-  AI Lead
-  9880611945
-- Hari Sankar
-  AI Mentor
-  8714509489
-<hr/>
-- Maanav Thalapilly
+
   
