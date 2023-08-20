@@ -1,5 +1,12 @@
+<p align="center">
+<!-- 
+<a href="https://aseam.acm.org/">
+    <img src="" alt="Logo" width=30%>
+  </a>
+-->
+  <h1 align="center">SIG Web</h1>
+</p>
 
-# web@acm 🚀 
 hitchike your way into the realm of the interconnected web.  💻
 
 ## pre-requisites
