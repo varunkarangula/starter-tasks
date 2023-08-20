@@ -46,20 +46,7 @@
 - Most prefer to use VSCode for its support of a wide range of languages, as well as its extensions and integrations
 - This link should get you started : [Download VSCode](https://code.visualstudio.com/download)
 
-
 ## Task 2
-### Project Euler - First 5 Problems
-
-- This is a good place to try out your code editor / IDE as well as your coding skills...
-- [Problem 1](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem)
-- [Problem 2](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem)
-- [Problem 3](https://www.hackerrank.com/contests/projecteuler/challenges/euler003/problem)
-- [Problem 4](https://www.hackerrank.com/contests/projecteuler/challenges/euler004/problem)
-- [Problem 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler005/problem)
-
-*Feel free to do more of these problems / explore more interesting problems in the never-ending problem archives*
-
-## Task 4
 ### Having Fun with Logic Gates
 
 **What are Logic Gates?**
@@ -92,7 +79,20 @@ We've provided a link to the trial of Minecraft Education Edition if you feel li
 
 **How do you get started with designing Logic Gates?**
 
-Let your creativity flow through for this task. Learn the standard logic gates and simulate them! How you get it done doesn't matter. The knowledge you gain through this does!
+Let your creativity flow for this task. Learn the standard logic gates and simulate them! How you get it done doesn't matter. The knowledge you gain through this does! Note that this would be reviewed during your interview.
+
+
+## Task 3
+### Project Euler - First 5 Problems
+
+- This is a good place to try out your code editor / IDE as well as your coding skills...
+- [Problem 1](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem)
+- [Problem 2](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem)
+- [Problem 3](https://www.hackerrank.com/contests/projecteuler/challenges/euler003/problem)
+- [Problem 4](https://www.hackerrank.com/contests/projecteuler/challenges/euler004/problem)
+- [Problem 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler005/problem)
+
+*Feel free to do more of these problems / explore more interesting problems in the never-ending problem archives*
 
 
 ## Task 4
