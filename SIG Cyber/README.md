@@ -1,4 +1,11 @@
-# Cyber Security
+<p align="center">
+<!-- 
+<a href="https://aseam.acm.org/">
+    <img src="" alt="Logo" width=30%>
+  </a>
+-->
+  <h1 align="center">SIG Cyber</h1>
+</p>
 
 * Cybersecurity, often referred to as information security, is the practice of protecting computer systems, networks, data, and digital assets from unauthorized access, attacks, damage, or theft.
 * The followinng task sets will help you to get your basic skill set to be in our world.
