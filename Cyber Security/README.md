@@ -142,7 +142,7 @@ Create an acount in [PicoCTF](https://picoctf.org/)
 
 ### Reversing Task Set :
 
-Learn
+**Learn**
 
 * Learn about stack and go through all its basic functionalities
 * Learn about basics to c programming and implement following programs:
@@ -152,6 +152,6 @@ Learn
 
 * Get to know about x86 assembly language
 
-Implement
+**Implement**
 
 * Transformation([pico gym](https://play.picoctf.org/practice/challenge/104?category=3&page=1))
