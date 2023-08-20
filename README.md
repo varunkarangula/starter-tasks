@@ -134,3 +134,14 @@ Solve the tasks for the SIG you chose !! :metal:
 
 ## Submission Link:- 
 https://aseam.acm.org/join/submit
+
+## Contacts
+- Dhruv R Krishnan
+  AI Lead
+  9880611945
+- Hari Sankar
+  AI Mentor
+  8714509489
+<hr/>
+- Maanav Thalapilly
+  
