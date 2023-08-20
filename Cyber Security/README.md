@@ -4,7 +4,7 @@
 * The followinng task sets will help you to get your basic skill set to be in our world.
 * If you face any difficulty you can ask your doubts in discord.
 
-## Task 1 - Installing a Linux System
+## Cyber Task 0 - Installing a Linux System
 
 **Objective:** The objective of this task is to set up a Linux environment using any one of the three methods: dual booting alongside an existing operating system, creating a virtual machine, or installing Windows Subsystem for Linux (WSL) on a Windows machine.
 
@@ -48,7 +48,7 @@ FOR HELP you can refer [here](https://ubuntu.com/tutorials/how-to-run-ubuntu-des
 
 FOR HELP you can refer [here](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview), or refer youtube.
 
-## Task 2 - Learn how to use the Linux Terminal.
+## Cyber Task 1 - Learn how to use the Linux Terminal.
 
 Learning how to use the Linux terminal is an essential skill for anyone working with Linux systems. The terminal, also known as the command-line interface (CLI), allows you to interact with the operating system using text-based commands.
 
@@ -56,7 +56,7 @@ Here is a [tutorial](https://ubuntu.com/tutorials/command-line-for-beginners), o
 
 Here is a [cheet sheet](./Linux.pdf) for you.
 
-## Task 3 - Bandit (Levels 0 to 10)
+## Cyber Task 2 - Bandit (Levels 0 to 10)
 
 The Bandit challenge is designed to help individuals learn and practice Linux command-line skills, basic security concepts, and ethical hacking techniques. The challenge consists of multiple levels, each with its own set of tasks and puzzles that need to be solved using the terminal.
 
@@ -86,7 +86,7 @@ There are up to 34 levels, if you want to explore a bit more you can continue pl
 
 The Bandit challenge is a great way to develop practical Linux command-line skills and gain a basic understanding of cybersecurity concepts. It's suitable for beginners and provides a hands-on learning experience in a controlled environment.
 
-## Task 4 - Natas (Levels 0 to 10)
+## Cyber Task 3 - Natas (Levels 0 to 10)
 
 "Natas" is another beginner-friendly Capture The Flag (CTF) challenge created by OverTheWire. Similar to the Bandit challenge, Natas focuses on teaching web application security concepts and ethical hacking techniques. The challenge consists of multiple levels, each with its own set of web-based tasks and puzzles that need to be solved by exploiting vulnerabilities in the web application.
 
