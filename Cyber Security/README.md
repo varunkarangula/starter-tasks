@@ -8,7 +8,7 @@
 
 * Create a folder for each task in the forked GitHub Repository, i.e, Cyber Task 2 and Cyber Task 3.
 * Create a word document, pdf or markdown file on how you did each level/tasks.
-* Format for the document is given [here](./Format.docx).
+* Format for the document is given [here](./Format.pdf).
 
 ## Cyber Task 0 - Installing a Linux System
 
