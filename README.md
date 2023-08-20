@@ -97,7 +97,7 @@ Let your creativity flow for this task. Learn the standard logic gates and simul
 
 ## Task 4
 Solve the tasks for the SIG you chose !! :metal:
-- [AI](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/leaderboard)
-- [CP]
-- [Cyber Security]
-- [Web Development]
+- [AI](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/tree/main/AI)
+- [CP](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/tree/main/CP)
+- [Cyber Security](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/tree/main/Cyber%20Security)
+- [Web Development](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/tree/main/Web%20Development)
