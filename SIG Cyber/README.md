@@ -4,6 +4,13 @@
 * The followinng task sets will help you to get your basic skill set to be in our world.
 * If you face any difficulty you can ask your doubts in discord.
 
+#### How to submit what you have done
+
+* Create a folder for each task in the forked GitHub Repository, i.e, Cyber Task 2 and Cyber Task 3.
+* Create a word document, pdf or markdown file on how you did each level/tasks.
+* Format for the document is given [here](./Format.pdf).
+* You can add screenshots too.
+
 ## Cyber Task 0 - Installing a Linux System
 
 **Objective:** The objective of this task is to set up a Linux environment using any one of the three methods: dual booting alongside an existing operating system, creating a virtual machine, or installing Windows Subsystem for Linux (WSL) on a Windows machine.
@@ -110,7 +117,7 @@ There are up to 34 levels, if you want to explore a bit more you can continue pl
 
 "Natas" offers an interactive and educational way to learn about web security and penetration testing. By solving the challenges, you'll gain hands-on experience in identifying and exploiting vulnerabilities commonly found in web applications. It's a valuable resource for individuals interested in entering the field of cybersecurity.
 
-## Optional Tasks
+## Cyber Optional Tasks
 
 Create an acount in [PicoCTF](https://picoctf.org/)
 
