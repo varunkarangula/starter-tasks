@@ -22,5 +22,8 @@ To use the dataset directly without downloading, you can use the link given belo
 
 [Dataset Link](https://raw.githubusercontent.com/ACM-Amrita-Amritapuri/starter-tasks/main/AI/Dataset.csv?token=GHSAT0AAAAAACDZ66AYUP7FYZK7SUIGYZRSZHCFYYA)
 
+Goals:-
 - Import the dataset and summarize the dataset. Give your thoughts and initial understanding of the data in a text cell below the output.
-- 
+- Replace all *_Null_* values in the column *_"trestbps"_* with 100. 
+- Rename column *_"target"_* to *_"pred"_*.
+- Use the [*_Matplotlib_*](https://matplotlib.org/stable/plot_types/index.html) module to plot any graph between any 2 columns of your choice. Give your thoughts and understanding of the graph in a text cell below the output.
