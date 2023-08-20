@@ -1,7 +1,8 @@
 <p align="center">
     
 <a href="https://aseam.acm.org/">
-    <img src="https://lh5.googleusercontent.com/klcdT64Esgb8BnSj1JAsxFs9tnce2vyoKvRIHUKcamMpMleFjIu2OQRJ90T6Q5m1IXDn89la_Stl5R09iZADOAZ5yeBWAzqbkwTp41LHapgaY90T7QXVbizN0vld7wxrcQnuVAPx" alt="Logo" width=200 height=200>
+    <img src="![cfewecfwsaec](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/assets/97865229/cd55ce35-4be5-44ee-8587-a2bef2263be6)
+" alt="Logo" width=200 height=200>
   </a>
 
   <h3 align="center">ACM Student Chapter - Amritapuri<br>Task List - 2021</h3>
