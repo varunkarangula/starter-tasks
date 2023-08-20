@@ -4,7 +4,7 @@
     <img src="" alt="Logo" width=30%>
   </a>
 -->
-  <h1 align="center">SIG CP</h1>
+  <h1 align="center">SIG Competitve Programming</h1>
 </p>
 Competitve Programming is not just about coding, It comprises of 
 - learning
@@ -13,9 +13,10 @@ Competitve Programming is not just about coding, It comprises of
 - Data structures
 
 ## Here is the joining task for you
-  1. create a Hackerrank Account and mention your username in your ...
+  1. create a Hackerrank Account
   2. Log on to [Hackerrank-Contest](https://www.hackerrank.com/acm-cp-tasks) and start solving the Problem
   3. You can use any language of your choice and any reference sites
+  4. Solve as much as you can. Feel free to pause whenever you feel difficult, But don't stop.
 
 ## Keep these things in mind:
   1. **Evaluation-Free Zone**:
