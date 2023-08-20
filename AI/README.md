@@ -22,7 +22,4 @@
 
 <br/>
 <hr/>
-<div>
-<span>Created with </span><a href="https://tango.us?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target='_blank' style='color: #256EFF'>Tango.us
-    </a>
-</div>
+For more information on how to use Colab, you can refer to https://www.youtube.com/watch?v=i-HnvsehuSw.
