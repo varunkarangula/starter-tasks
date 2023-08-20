@@ -7,7 +7,7 @@ Competitve Programming is not just about coding, It comprises of
 
 ## Here is the joining task for you
   1. create a Hackerrank Account and mention your username in your ...
-  2. Log on to [Hackerrank-Contest](www.hackerrank.com/acm-cp-tasks) and start solving the Problem
+  2. Log on to [Hackerrank-Contest](https://www.hackerrank.com/acm-cp-tasks) and start solving the Problem
   3. You can use any language of your choice and any reference sites
 
 ## Keep these things in mind:
