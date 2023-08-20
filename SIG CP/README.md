@@ -1,4 +1,11 @@
-# Competitve Programming
+<p align="center">
+<!-- 
+<a href="https://aseam.acm.org/">
+    <img src="" alt="Logo" width=30%>
+  </a>
+-->
+  <h1 align="center">SIG CP</h1>
+</p>
 Competitve Programming is not just about coding, It comprises of 
 - learning
 - Problem analysis
