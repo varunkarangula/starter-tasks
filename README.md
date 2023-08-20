@@ -19,7 +19,7 @@
 - [Create a GitHub and LinkedIn Account](#task-0)
 - [Set up a Code Editor](#task-1)
 - [Having Fun with Logic Gates](#task-2)
-- [Project Euler](#task-3)
+- [Code Area](#task-3)
 - [SIG Task](#task-4)
 
 
@@ -83,14 +83,14 @@ Let your creativity flow for this task. Learn the standard logic gates and simul
 
 
 ## Task 3
-### Project Euler - First 5 Problems
+### Code Area
 
 - This is a good place to try out your code editor / IDE as well as your coding skills...
-- [Problem 1](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem)
-- [Problem 2](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem)
-- [Problem 3](https://www.hackerrank.com/contests/projecteuler/challenges/euler003/problem)
-- [Problem 4](https://www.hackerrank.com/contests/projecteuler/challenges/euler004/problem)
-- [Problem 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler005/problem)
+- [Problem 1](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements)
+- [Problem 2](https://www.hackerrank.com/challenges/simple-array-sum)
+- [Problem 3](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem)
+- [Problem 4](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem)
+- [Problem 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler003/problem)
 
 *Feel free to do more of these problems / explore more interesting problems in the never-ending problem archives*
 
