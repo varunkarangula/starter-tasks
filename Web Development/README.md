@@ -9,10 +9,14 @@ hitchike your way into the realm of the interconnected web.  💻
 
 -  follow the acm github 🌟
 
+##### `feel free to ask questions in discord.`
+##### `📋 share tasks you've finished and think demonstrate your skills. not mandatory to complete all tasks, but why not take a chance on each? ✨`
+
 
 ## 1️⃣ introduction.js
 
 `we've lined up 9 tasks to get your hands dirty with upcoming and popular technologies in this domain.`
+
 
 
 
@@ -62,8 +66,6 @@ before you get started , check this out 💡
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tasks>
 
 
-#### `feel free to ask questions in discord.`
-#### `submit tasks you have completed and feel will represent your skillsets.`
 
 
 
