@@ -71,34 +71,6 @@ before you get started , check this out 💡
 
 
 ## submissionFormat.tsx
-
-
-
-- github repository: create a dedicated repository on github for the acm web development club tasks.
-
-
-
 - task naming convention: for each completed task, use the following format: 📝  `acmweb-ascendant--task1` for the first task in ascendant.
-
-
 - commit and push: after completing a task, commit and push the file to your github repository. ensure the repository is public. 🚀
-
 - create a pdf document with each project's github link and demo link `if deployed` or `screenshots`
-
-- [register and submit here](https://forms.gle/eeA4d1iajo3zVHfr5)
-## submissionFormat.tsx
-
-
-
-- github repository: create a dedicated repository on github for the acm web development club tasks.
-
-
-
-- task naming convention: for each completed task, use the following format: 📝  `acmweb-ascendant--task1` for the first task in ascendant.
-
-
-- commit and push: after completing a task, commit and push the file to your github repository. ensure the repository is public. 🚀
-
-- create a pdf document with each project's github link and demo link `if deployed` or `screenshots`
-
-- [register and submit here](https://forms.gle/eeA4d1iajo3zVHfr5)
