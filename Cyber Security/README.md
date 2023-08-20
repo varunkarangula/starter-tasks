@@ -117,7 +117,7 @@ There are up to 34 levels, if you want to explore a bit more you can continue pl
 
 "Natas" offers an interactive and educational way to learn about web security and penetration testing. By solving the challenges, you'll gain hands-on experience in identifying and exploiting vulnerabilities commonly found in web applications. It's a valuable resource for individuals interested in entering the field of cybersecurity.
 
-## Optional Tasks
+## Cyber Optional Tasks
 
 Create an acount in [PicoCTF](https://picoctf.org/)
 
