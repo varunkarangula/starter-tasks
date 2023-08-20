@@ -124,3 +124,9 @@ Solve the tasks for the SIG you chose !! :metal:
 </div>
 
 <br/>
+
+## Submission Repo Format
+![image](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/assets/97865229/f26eb4f3-3df4-48aa-80ef-55e59af8d424)
+
+![image](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/assets/97865229/cb0d10b3-a0b2-46d7-8be6-85b51a93754f)
+
