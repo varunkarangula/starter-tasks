@@ -2,7 +2,7 @@
 
 ## Platform
 - Google Colab
-<div><h2><a href="https://drive.google.com/drive/u/0/my-drive">### Creating Google Colab Notebook</a></h2></div>
+<div><h2><a>Creating Google Colab Notebook</a></h2></div>
 
 <div><h3>1. Click on New</h3>
 <img src="https://images.tango.us/workflows/6ff52757-9b5d-4729-8e69-0ab6447eb3db/steps/3363787c-0675-485d-bbbd-334a698c28c8/d087ba4b-94fb-49b8-b634-97ecf82848b7.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.0598&fp-y=0.1349&fp-z=2.5127&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=33&mark-y=182&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz0yOTUmaD0xNzQmZml0PWNyb3AmY29ybmVyLXJhZGl1cz0xMA%3D%3D" style="border-radius: 8px; border: 1px solid #F4F2F7;" width="600" alt="Click on New" />
