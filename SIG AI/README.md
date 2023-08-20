@@ -1,4 +1,11 @@
-# AI
+<p align="center">
+<!-- 
+<a href="https://aseam.acm.org/">
+    <img src="" alt="Logo" width=30%>
+  </a>
+-->
+  <h1 align="center">SIG AI</h1>
+</p>
 
 ## Platform
 - Google Colab
