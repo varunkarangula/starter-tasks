@@ -16,20 +16,14 @@ hitchike your way into the realm of the interconnected web.  💻
 
 -  follow the acm github 🌟
 
-##### `feel free to ask questions in discord.`
-##### `📋 share tasks you've finished and think demonstrate your skills. not mandatory to complete all tasks, but why not take a chance on each? ✨`
+##### `❗submission of all tasks are not mandatory but will give you leverage during selection`
 
 
 ## 1️⃣ introduction.js
 
-`we've lined up 9 tasks to get your hands dirty with upcoming and popular technologies in this domain.`
+`we've lined up 8 tasks to get your hands dirty with upcoming and popular technologies in this domain.`
 
-
-
-
-## 2️⃣ < tasks >
-
-before you get started , check this out 💡
+before you get started , here's some fun sites to learn css/js 💡
       
 - leap into flexbox  🐸: guide froggies to their lily pads and master css flexbox   [here!](https://flexboxfroggy.com/)
 
@@ -38,45 +32,43 @@ before you get started , check this out 💡
 - unveil ethereum's secrets ⛓️: conquer smart contract vulnerabilities and navigate blockchain challenges with [ethernaut!](https://ethernaut.openzeppelin.com/)
 
 
+
+## 2️⃣ < tasks >
+
+
 ---
 
 ### ascendant 🀅
--  craft a static webpage using html and css which serves as a personal portfolio of your works,skillset and interest.
+1. craft a static webpage using html and css which serves as a personal portfolio of your works,skillset and interest.
  
 
 
 
-- let wanderlust flow through your fingers as you create a webpage showcasing your dream destinations using `html and css.` 
+2. let wanderlust flow through your fingers as you create a webpage showcasing your dream destinations using `html and css.` 
 
-- set off on an interstellar journey through an API-powered hub dedicated to space exploration. connect with the cosmos using APIs like [NASA's Astronomy Picture of the Day](https://data.nasa.gov/Space-Science/Astronomy-Picture-of-the-Day-API/ez2w-t8ua).  &nbsp;craft an interface that  showcases  images,  explanations, and  cosmic facts.
+3. set off on an interstellar journey through an API-powered hub dedicated to space exploration. connect with the cosmos using APIs like [NASA's Astronomy Picture of the Day](https://data.nasa.gov/Space-Science/Astronomy-Picture-of-the-Day-API/ez2w-t8ua).  &nbsp;craft an interface that  showcases  images,  explanations, and  cosmic facts.
 
-- summon your favorite series or movie lines with an html page that displays random fun quotes.utilize apis like the [brooklyn nine-nine quotes api](https://rapidapi.com/JacksonBright/api/brooklyn-nine-nine-quotes) for inspiration. 
+4. summon your favorite series or movie lines with an html page that displays random fun quotes.utilize apis like the [brooklyn nine-nine quotes api](https://rapidapi.com/JacksonBright/api/brooklyn-nine-nine-quotes) for inspiration. 
 
 
 ### immortal 🀄
 
-- craft a web app that's all about authors. use any framework to make a basic search, it should connect to a  **database** and retrive book names of author to be searched.  `def hint() : start with firebase for ease of use`
+5. craft a web app that's all about authors. use any framework to make a basic search, it should connect to a  **database** and retrive book names of author to be searched.  `def hint() : start with firebase for ease of use`
 
-- create a web page that awakens the power of augmented reality (ar). harness the forces of _a-frame's <a-marker>_ component or three.js's ar.js integration to conjure a virtual world that interacts with a specific ar marker. be creative in creating this web-app.
+6. create a web page that awakens the power of augmented reality (ar). harness the forces of _a-frame's <a-marker>_ component or three.js's ar.js integration to conjure a virtual world that interacts with a specific ar marker. be creative in creating this web-app.
 
-- design a photo gallery that allows us users search for photos using keywords with `reactjs`. the users can also adjust the categorization using provided selections like mountains, beaches etc. remember, you are the curator of your journey. 
+7. design a photo gallery that allows us users search for photos using keywords with `reactjs`. bonus : the users can also adjust the categorization using provided selections like mountains, beaches etc. remember, you are the curator of your journey. 
+[watch this video for help](https://www.youtube.com/watch?v=yUau8xImmK0)
 
-`use carousel and other libraries from npm for desigining`
+ `use carousel and other libraries from npm for desigining`
 
-
-## radiant ⛻
-
-- `financial navigator` (well, we all need this don’t we?) : whip up a **nodejs / django** dashboard to ace money management. showcase transactions, expense tracking, and jazz it up with charts. power up with goal setting for a boosted financial journey.
-
-- deploy your expertise in data visualization! develop a streamlit application that showcases the [titanic survival dataset](https://www.kaggle.com/competitions/titanic) in a captivating table. implement search functionality and survival prediction.
-
+8. deploy your expertise in data visualization! develop a [streamlit](https://towardsdatascience.com/data-apps-with-pythons-streamlit-b14aaca7d083) application that showcases the [titanic survival dataset](https://www.kaggle.com/competitions/titanic) in a captivating table. 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tasks>
 
 
 
 
-
-
+_have a great coding sesh ahead ✨_
 
 
 ## submissionFormat.tsx
