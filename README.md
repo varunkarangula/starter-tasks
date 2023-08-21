@@ -157,5 +157,11 @@ Solve the tasks for the SIG you chose !! :metal:
 ## Submission Link:- 
 https://aseam.acm.org/join/submit
 
+## Submission Deadline
+Each SIG has their own specific deadline.
+- SIG AI : 15/9/23
+- SIG CP : 15/9/23
+- SIG Cyber : 15/9/23
+- SIG Web : 21/9/23
 
   
