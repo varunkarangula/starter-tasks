@@ -149,10 +149,10 @@ Solve the tasks for the SIG you chose !! :metal:
 
 ## Submission Repo Format
 - Repo Content
-![image](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/assets/97865229/f26eb4f3-3df4-48aa-80ef-55e59af8d424)
+![image](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/assets/97865229/0cc9f662-0a14-489b-9cd1-5f204d93a201)
 
 - Repo ReadMe File
-![image](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/assets/97865229/cb0d10b3-a0b2-46d7-8be6-85b51a93754f)
+![image](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/assets/97865229/a7b7348a-6e06-4b04-ad8a-35e9a98a87e5)
 
 ## Submission Link:- 
 https://aseam.acm.org/join/submit
