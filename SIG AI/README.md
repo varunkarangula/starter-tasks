@@ -36,7 +36,7 @@ Goals:-
 
 _Submission:- Download and upload the ".ipynb" file_
 
-## AI Task 3 - BONUS
+## AI Task 2 - BONUS
 This task is optional. Use your passion and drive toward AI to complete this. Explore any classification algorithm of your choice and create a _Machine Learning_ model for the same dataset.
 
 ## Submission Deadline for SIG AI
