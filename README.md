@@ -109,6 +109,7 @@ Let your creativity flow for this task. Learn the standard logic gates and simul
 ### Code Area
 This is a good place to try out your code editor / IDE as well as your coding skills...
 - [Problem 1](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements)
+  If you are using python, upload your python code code.
 - [Problem 2](https://www.hackerrank.com/challenges/simple-array-sum)
 - [Problem 3](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem)
 - [Problem 4](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem)
