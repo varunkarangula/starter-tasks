@@ -13,7 +13,7 @@
 
 #### How to submit what you have done
 
-* Create a folder for each task in the GitHub Repository you have created([refer](../README.md#creating-your-submission-repo), i.e, Cyber Task 2 and Cyber Task 3.
+* Create a folder for each task in the GitHub Repository you have created([refer](../README.md#creating-your-submission-repo)), i.e, Cyber Task 2 and Cyber Task 3.
 * Create a word document, pdf or markdown file on how you did each level/tasks.
 * Format for the document is given [here](./Format.pdf).
 * You can add screenshots too.
