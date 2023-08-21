@@ -4,7 +4,8 @@
     <img src="" alt="Logo" width=30%>
   </a>
 -->
-  <h1 align="center">SIG Competitve Programming</h1>
+  <h1 align="center">SIG CP<br>> Competitive Programming <</h1>
+  
 </p>
 Competitve Programming is not just about coding, It comprises of 
 - learning
@@ -43,6 +44,7 @@ Competitve Programming is not just about coding, It comprises of
      
       Uphold honesty and integrity in all your endeavours. There's no room for cheating; authentic efforts are the key to genuine growth and achievement.
 
-
+## Submission Deadline for SIG AI
+**_15/9/23_**
 
 
