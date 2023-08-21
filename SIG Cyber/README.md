@@ -126,7 +126,8 @@ There are up to 34 levels, if you want to explore a bit more you can continue pl
 
 ## Cyber Optional Tasks
 
-Create an acount in [PicoCTF](https://picoctf.org/)
+Create an acount in [PicoCTF](https://picoctf.org/).
+
 Go to [CLassroom](https://play.picoctf.org/classrooms) and join with invite code ```C87QwQUxl```.
 
 ### Cryptography Task Set :
