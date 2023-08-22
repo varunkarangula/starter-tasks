@@ -49,7 +49,8 @@ Why make a GitHub and LinkedIn Account?
 - Collaboration on projects.
 - Open-source contributions.
 
-*Look into using Git purely from your terminal, it's pretty eye-opening for most beginners to open source*
+*Look into using Git purely from your terminal, it's pretty eye-opening for most beginners to open source.*<br>
+*If you are facing any issues in creating a GitHub account, Connect to your mobile hotspot instead of campus wifi and try again*
 
 **LinkedIn:**
 - Professional networking.
