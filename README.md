@@ -16,19 +16,22 @@
 
 
 ## Contacts
+###### SIG-AI:
 -     Dhruv R Krishnan                            Hari Sankar
       AI Lead                                     AI Mentor
-      9880611945                                  8714509489 
+      9880611945                                  8714509489
+###### SIG-CP
 -     Maanav Thalapilly                           Sudhin S
       CP Lead                                     CP Mentor | AI Guide
       9746301081                                  9961557857
+###### SIG-Cyber
 -     Aadithyan Raju
       Cyber Lead
       9562341272
+###### SIG-Web
 -     Abhishek A B                                Arjun C
       Web Lead                                    Web Mentor
       6282599335                                  8848798837
-
 
 ## The Tasks
 
