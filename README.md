@@ -14,25 +14,6 @@
 - *Don't try and cheat, for your own good, it just defeats the purpose*
 - *We are always here to help you, just contact us. You might not get a direct answer, but you will absolutely be pointed in the right direction*
 
-
-## Contacts
-###### SIG-AI:
--     Dhruv R Krishnan                            Hari Sankar
-      AI Lead                                     AI Mentor
-      9880611945                                  8714509489
-###### SIG-CP:
--     Maanav Thalapilly                           Sudhin S
-      CP Lead                                     CP Mentor | AI Guide
-      9746301081                                  9961557857
-###### SIG-Cyber:
--     Aadithyan Raju
-      Cyber Lead
-      9562341272
-###### SIG-Web:
--     Abhishek A B                                Arjun C
-      Web Lead                                    Web Mentor
-      6282599335                                  8848798837
-
 ## The Tasks
 
 - [Create a GitHub and LinkedIn Account](#task-0)
@@ -170,4 +151,22 @@ Each SIG has their own specific deadline.
 - SIG Cyber : 15/9/23
 - SIG Web : 21/9/23
 
-  
+
+
+## Contacts
+###### SIG-AI:
+-     Dhruv R Krishnan                            Hari Sankar
+      AI Lead                                     AI Mentor
+      9880611945                                  8714509489
+###### SIG-CP:
+-     Maanav Thalapilly                           Sudhin S
+      CP Lead                                     CP Mentor | AI Guide
+      9746301081                                  9961557857
+###### SIG-Cyber:
+-     Aadithyan Raju
+      Cyber Lead
+      9562341272
+###### SIG-Web:
+-     Abhishek A B                                Arjun C
+      Web Lead                                    Web Mentor
+      6282599335                                  8848798837
