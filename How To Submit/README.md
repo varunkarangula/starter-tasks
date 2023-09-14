@@ -7,11 +7,14 @@
   <h3 align="center">How To Submit?</h3>
 </p>
 
-Create a GitHub repository with the name "**ACM_Task_Your-Name**". For each task create a folder and put in the necessary documents or screenshots required.
+Create a GitHub repository with the name "**ACM_Task_Your-Name**". For each task, create a folder and put in the necessary documents or screenshots.
+
+![image](https://github.com/ACM-Amrita-Amritapuri/starter-tasks/assets/97865229/129fc52a-34db-420e-b56a-51c941acf56f)
+
 
 ## General Tasks
 ### Task 0
-In this folder, put in the screenshots of your GitHub and LinkedIn accounts.
+In this folder, put screenshots of your GitHub and LinkedIn accounts.
 
 
 ### Task 1
@@ -23,10 +26,10 @@ Uploading content in this folder is optional. However, a question based on logic
 
 
 ### Task 3
-Here, you have 5 Hackerrank coding questions. For each question upload the screenshot of the of the question, your code, and the successfull test cases after running.
+Here, are 5 HackerRank coding questions. For each question, upload screenshots of the question, your code, and the successful test cases after running.
 
 
-If the language you are using is not the in the Hackerrank question, i.e., 1st question, then upload the code file.
+If the language you are using is not in the HackerRank question, i.e., the 1st question, then upload the code file.
 
 
 ## SIG Tasks
