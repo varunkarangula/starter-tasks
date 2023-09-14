@@ -6,6 +6,7 @@
 
   <h3 align="center">How To Submit?</h3>
 </p>
+<p>Submit your repository link through https://aseam.acm.org/join/submit</p>
 
 Create a GitHub repository with the name "**ACM_Task_Your-Name**". For each task, create a folder and put in the necessary documents or screenshots.
 
