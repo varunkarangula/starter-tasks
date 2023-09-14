@@ -7,6 +7,9 @@
   <h3 align="center">ACM Student Chapter - Amritapuri<br>Task List - 2023</h3>
 </p>
 
+## Announcement
+Please note that the deadline for AI, CP, and Cyber has been postponed to ***17/9/23***, 11:59 pm.
+
 ## Some reminders...
 
 - *Google is going to be a very dear friend, not only for these tasks but throughout your career, so it's best to learn how to efficiently Google*
@@ -146,9 +149,9 @@ https://aseam.acm.org/join/submit
 
 ## Submission Deadline
 Each SIG has their own specific deadline.
-- SIG AI : 15/9/23
-- SIG CP : 15/9/23
-- SIG Cyber : 15/9/23
+- SIG AI : 17/9/23
+- SIG CP : 17/9/23
+- SIG Cyber : 17/9/23
 - SIG Web : 21/9/23
 
 
